@@ -1,5 +1,4 @@
-# write a simple Java program to create and initialize an array
-public class ArrayExample {
+public class arrayExample {
     public static void main(String[] args) {
         // Create an array of integers
         int[] numbers = new int[5];
